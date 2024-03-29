@@ -19,8 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aman-uchitkar-44757020a/" target="blank"><img align="center" src="/linkedin.png" alt="Aman Uchitkar" height="40" width="40" /></a>
-<a href="amanuchitkar@gmail.com" target="blank"><img align="center" src="/gmail.png" alt="Aman Uchitkar" height="40" width="40" /></a>
-</p>
+<a href="amanuchitkar@gmail.com" target="blank"><img align="center" src="/gmail.png" alt="Aman Uchitkar" height="40" width="40" /></a></p>
 
 
 ## 🌐 Socials:
