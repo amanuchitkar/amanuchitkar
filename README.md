@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aman Uchitkar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-  <img align="right" width="400" alt="Coding" src="/avtar.jpeg">
+  <img align="right" width="400" alt="Coding" src="/avtar.jpeg"> 
 
 
 
