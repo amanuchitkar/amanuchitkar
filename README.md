@@ -7,19 +7,19 @@
 
 
 
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=amanuchitkar&label=Profile%20views&color=0e75b6&style=flat" alt="amanuchitkar" /> </p>
+<p align="left">  <img  src="https://komarev.com/ghpvc/?username=amanuchitkar&label=Profile%20views&color=0e75b6&style=flat" alt="amanuchitkar" />  </p>
 
 
 
 - 🌱 I’m currently learning **Backend with Python and Django**
 
 - 📫 How to reach me **amanuchitkar@gmail.com**
+- 🌐 Personal-Portfolio-Website- **https://amanuchitkar.pythonanywhere.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aman-uchitkar-44757020a/" target="blank"><img align="center" src="/linkedin.png" alt="Aman Uchitkar" height="40" width="40" /></a>
-<a href="amanuchitkar@gmail.com" target="blank"><img align="center" src="/gmail.png" alt="Aman Uchitkar" height="40" width="40" /></a>
-</p>
+<a href="amanuchitkar@gmail.com" target="blank"><img align="center" src="/gmail.png" alt="Aman Uchitkar" height="40" width="40" /></a></p>
 
 
 ## 🌐 Socials:
@@ -30,6 +30,7 @@
 
 <!-- ![Google Cloud](https://img.shields.io/badge/Google-Cloud-%23000000.svg?style=for-the-badge&logo=google&logoColor=#00C7B7) -->
 # 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%238511FA.svg?style=for-the-badge&logo=React&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
