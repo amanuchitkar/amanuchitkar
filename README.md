@@ -30,7 +30,7 @@
 
 <!-- ![Google Cloud](https://img.shields.io/badge/Google-Cloud-%23000000.svg?style=for-the-badge&logo=google&logoColor=#00C7B7) -->
 # 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%238511FA.svg?style=for-the-badge&logo=React&logoColor=white)
+![ReactJS](https://img.shields.io/badge/reactJs-%238511FA.svg?style=for-the-badge&logo=React&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -38,7 +38,8 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![GCP](https://img.shields.io/badge/GoogleCloud-%23000000.svg?style=for-the-badge&logo=GoogleCloud&logoColor=blue) 
 ![Linux](https://img.shields.io/badge/Kali-Linux-%2300599C.svg?style=for-the-badge&logo=kalilinux&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-%2320232a.svg?style=for-the-badge&logo=node.js) 
+![NodeJs](https://img.shields.io/badge/Node.js-%2320232a.svg?style=for-the-badge&logo=node.js) 
+![ExpressJs](https://img.shields.io/badge/ExpressJs-%2320232a.svg?style=for-the-badge&logo=express) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Sqlite](https://img.shields.io/badge/SQLite-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=#00C7B7) 
 ![Django](https://img.shields.io/badge/Django-%23054000.svg?style=for-the-badge&logo=django&logoColor=white)
