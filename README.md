@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/aman-uchitkar-44757020a/" target="blank"><img align="center" src="/linkedin.png" alt="Aman Uchitkar" height="40" width="40" /></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/7308881d-94e0-4843-ae8a-40753fe95f60" target="blank"><img align="center" src="/google-cloud.png" alt="Aman Uchitkar" height="40" width="50" /></a>
 
-<!-- ![Google Cloud](https://img.shields.io/badge/Google-Cloud-%23000000.svg?style=for-the-badge&logo=google&logoColor=#00C7B7) -->
+<!-- ![Google Cloud](https://img.shields.io/badge/Google-Cloud-%23000000.svg?style=for-the-badge&logo=google&logoColor=#00C7B7)  -->
 # 💻 Tech Stack:
 ![ReactJS](https://img.shields.io/badge/reactJs-%238511FA.svg?style=for-the-badge&logo=React&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
