@@ -63,4 +63,18 @@
 
 ---
 
+<h3 align="left">🏆 GitHub Profile Trophy</h3>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=amanuchitkar&theme=dracula&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h3 align="left">📈 Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanuchitkar&theme=dracula" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 <h3 align="center">✨ Thank you for visiting my profile!</h3>
