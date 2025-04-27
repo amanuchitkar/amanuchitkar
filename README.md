@@ -1,4 +1,4 @@
-![MasterHead](./baner.png)
+![MasterHead](./baner.jpg)
 
 <h1 align="center">Hi 👋, I'm Aman Uchitkar</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
