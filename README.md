@@ -11,7 +11,7 @@
 
 - 🌱 Currently learning **Backend Development with Python and Django**  
 - 📫 Reach me at **amanuchitkar@gmail.com**  
-- 🌐 Personal Portfolio: [Visit Here](https://amanuchitkar.enorviaglobal.com/)  
+- 🌐 Personal Portfolio: [Visit Here](https://amanuchitkar.in)  
 
 ---
 
