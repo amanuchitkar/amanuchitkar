@@ -1,17 +1,24 @@
 ![MasterHead](./baner.jpg)
 
 <h1 align="center">Hi 👋, I'm Aman Uchitkar</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">Founder & CTO @ MentorSarthi · Full-Stack Developer & Ethical Hacker</h3>
 
-<img align="right" src="./avtar.jpeg" alt="Coding" width="300">
+<img align="right" src="./avtar.jpeg" alt="Aman Uchitkar" width="300">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amanuchitkar&label=Profile%20views&color=0e75b6&style=flat" alt="amanuchitkar" />
 </p>
 
-- 🌱 Currently learning **Backend Development with Python and Django**  
-- 📫 Reach me at **amanuchitkar@gmail.com**  
-- 🌐 Personal Portfolio: [Visit Here](https://amanuchitkar.in)  
+- 🚀 **Founder, CTO & Developer** at [MentorSarthi](https://amanuchitkar.in) — a flagship product under Enorvia Global *(Jan 2025 – Present)*
+- 🎓 Pursuing **B.E. in Electronics & Telecommunication** from [DBATU](https://dbatu.ac.in)
+- 🔐 Passionate about **Full-Stack Development**, **Ethical Hacking & Cybersecurity**
+- 🛠️ **Technical Lead** at EDC DBATU *(Nov 2024 – Present)*
+- ☁️ **Google Arcade Facilitator** — Google Cloud Skills Boost *(Apr 2025 – Jun 2025)*
+- 🌐 **Web Dev Coordinator** — Google Developer Students Club (GDSC) DBATU *(Jun 2023 – Jun 2024)*
+- 🏆 **Participant** — Smart India Hackathon (SIH) 2024 — National Level *(Problem Statement: Post India)*
+- 🏆 **Participant** — Smart India Hackathon (SIH) 2025 — National Level *(Problem Statement: MathWorks)*
+- 📫 Reach me at **amanuchitkar@gmail.com** · 📞 +91 70583 76553
+- 🌐 Portfolio: [amanuchitkar.in](https://amanuchitkar.in) · 📄 [View Resume](https://drive.google.com/file/d/1Y4lpKkXeOr_5POdlMw2V1Mgg5gyDzbA6/view?usp=drive_link)
 
 ---
 
@@ -55,25 +62,49 @@
 ---
 
 <h3 align="left">📊 GitHub Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=amanuchitkar&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanuchitkar&theme=dracula&hide_border=true" alt="GitHub Streak" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanuchitkar&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanuchitkar&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+
+<!-- Row 1: Profile Details — full width -->
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanuchitkar&theme=dracula" alt="Profile Details" />
+</p>
+
+<!-- Row 2: Stats (left) + Top Languages by Repo (right) -->
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanuchitkar&theme=dracula" alt="Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanuchitkar&theme=dracula" alt="Top Languages by Repo" />
+</p>
+
+<!-- Row 3: Top Languages by Commit (left) + Productive Time (right) -->
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanuchitkar&theme=dracula" alt="Top Languages by Commit" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amanuchitkar&theme=dracula&utcOffset=5.5" alt="Productive Time (IST)" />
+</p>
+
+<!-- Row 4: GitHub Streak — centered -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=amanuchitkar&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h3 align="left">🏆 GitHub Profile Trophy</h3>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=amanuchitkar&theme=dracula&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+<h3 align="left">🏆 Achievements & Highlights</h3>
+
+> 🎯 **GitHub Achievements** are natively displayed on my GitHub profile — visit [github.com/amanuchitkar](https://github.com/amanuchitkar) to see earned badges like *Pull Shark*, *Quickdraw*, and more!
+
+<p align="left">
+  <a href="https://github.com/amanuchitkar?tab=achievements">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Achievements-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements" />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/7308881d-94e0-4843-ae8a-40753fe95f60">
+    <img src="https://img.shields.io/badge/Google%20Cloud%20Skills-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills" />
+  </a>
 </p>
 
 ---
 
 <h3 align="left">📈 Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanuchitkar&theme=dracula" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanuchitkar&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
